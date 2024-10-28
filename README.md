@@ -11,3 +11,5 @@ There are a total of eight different element formulation and the naming conventi
 
 All AceGen files also come with a Fortran file, which has been generated using the corresponding AceGen notebook in "Optimal" mode. 
 Both finite strain plasticity elements also come with a debug version, which can be found in the "Debug versions FS P" folder. All folders of these finite strain plasticity elements also include four extra Fortran files for the material model.
+
+The "Pipe expansion axisymmetric.zip" file includes the numerical example from Allan F. Bower, modifed to be axisymmetric and also compatible with small strain plasticity. There are also two possible meshes to choose from.   
