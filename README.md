@@ -1,3 +1,5 @@
+The "Axisymmetric elements.zip" file includes every element formulation developed in my bachelor thesis.
+
 There are a total of eight different element formulation and the naming convention is as follows:
 
 "Q1" denotes quadrilateral bilinear elements.
